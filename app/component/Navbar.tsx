@@ -30,6 +30,9 @@ export default function Navbar() {
         <Link href="/AboutSection" className="hover:text-gray-500">
           About
         </Link>
+        <Link href="/Author" className="hover:text-gray-500">
+          MyArticle
+        </Link>
       </div>
 
       {/* Tombol login */}
